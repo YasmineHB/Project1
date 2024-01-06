@@ -8,7 +8,7 @@ public class TestDemo {
 
 		System.out.println("HELLO FROM GIT TO ECLIPSE");
 		
-		System.out.println("HOW ARE YOU GITHUN?");
+		System.out.println("HOW ARE YOU GITHUB?");
 	}
 
 }
