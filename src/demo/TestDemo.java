@@ -24,7 +24,7 @@ public class TestDemo {
 	// this comment from GitHb T4...
 	//hello12
 
-	//yes
+	//No this Line I can not pull without a conflict
 	//this line I can pull with no conflict
 	
 	//hello
